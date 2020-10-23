@@ -1,0 +1,48 @@
+body{
+    background-image: url("back.jpg");
+    text-align: center;
+    padding: 50px 50px 50px 100px;
+}
+div.barra{
+    background: rgba(26, 46, 110, 0.555);
+    display: block;
+    position: relative;
+    padding: 20px;
+    border: 1px solid black;
+    border-radius: 10px;
+    color: white;
+}
+input.Buscador{
+    text-align: center;
+}
+p#title{
+    text-align: center;
+    font-size: 14pt;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode';
+}
+#youtube{
+    background-image: url("yt.png");
+    background-size: 25px 25px;
+    width: 30px;
+    height: 30px;
+}
+#instagram{
+    background-image: url("insta.png");
+    background-size: 25px 25px;
+    width: 30px;
+    height: 30px;
+}
+div.square{
+    color: white;
+    text-align: center;
+    padding: 10px;
+    margin: 5px;
+    border-radius: 10px;
+    border: 1px solid black;
+    background: rgba(26, 46, 110, 0.555);
+    display: block;
+    position: relative;
+    float: left;
+}
+
+
